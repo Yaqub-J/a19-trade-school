@@ -1,0 +1,548 @@
+Industry/Sector,Profession,SOC Code
+
+
+
+Business & Finance,Chief Executives,11-1011.00
+Business & Finance,General and Operations Managers,11-1021.00
+Business & Finance,Marketing Managers,11-2021.00
+Business & Finance,Financial Managers,11-3031.00
+Business & Finance,Human Resources Managers,11-3121.00
+Business & Finance,Advertising and Promotions Managers,11-2011.00
+Business & Finance,Public Relations Managers,11-2032.00
+Business & Finance,Sales Managers,11-2022.00
+Business & Finance,Administrative Services Managers,11-3011.00
+Business & Finance,Computer and Information Systems Managers,11-3021.00
+Business & Finance,Construction Managers,11-9021.00
+Business & Finance,Education Administrators,11-9030.00
+Business & Finance,Architectural and Engineering Managers,11-9041.00
+Business & Finance,Food Service Managers,11-9051.00
+Business & Finance,Funeral Home Managers,11-9061.00
+Business & Finance,Lodging Managers,11-9071.00
+Business & Finance,Medical and Health Services Managers,11-9111.00
+Business & Finance,Natural Sciences Managers,11-9121.00
+Business & Finance,Property, Real Estate, and Community Association Managers,11-9141.00
+Business & Finance,Purchasing Managers,11-3061.00
+Business & Finance,Transportation, Storage, and Distribution Managers,11-3071.00
+Business & Finance,Farm, Ranch, and Other Agricultural Managers,11-9013.00
+Business & Finance,Agents and Business Managers of Artists, Performers, and Athletes,13-1011.00
+Business & Finance,Buyers and Purchasing Agents, Except Farm Products,13-1021.00
+Business & Finance,Claims Adjusters, Examiners, and Investigators,13-1031.00
+Business & Finance,Compliance Officers,13-1041.00
+Business & Finance,Cost Estimators,13-1051.00
+Business & Finance,Human Resources Specialists,13-1071.00
+Business & Finance,Labor Relations Specialists,13-1075.00
+Business & Finance,Logisticians,13-1081.00
+Business & Finance,Management Analysts,13-1111.00
+Business & Finance,Meeting, Convention, and Event Planners,13-1121.00
+Business & Finance,Fundraisers,13-1131.00
+Business & Finance,Market Research Analysts and Marketing Specialists,13-1161.00
+Business & Finance,Training and Development Specialists,13-1151.00
+Business & Finance,Accountants and Auditors,13-2011.00
+Business & Finance,Appraisers and Assessors of Real Estate,13-2021.00
+Business & Finance,Budget Analysts,13-2031.00
+Business & Finance,Credit Analysts,13-2041.00
+Business & Finance,Financial Analysts,13-2051.00
+Business & Finance,Personal Financial Advisors,13-2052.00
+Business & Finance,Insurance Underwriters,13-2053.00
+Business & Finance,Loan Officers,13-2071.00
+Business & Finance,Tax Examiners and Collectors, and Revenue Agents,13-2081.00
+Business & Finance,Financial Examiners,13-2061.00
+Business & Finance,Actuaries,15-2011.00
+
+
+
+Technology & Digital,Computer and Information Research Scientists,15-1221.00
+Technology & Digital,Computer Systems Analysts,15-1211.00
+Technology & Digital,Information Security Analysts,15-1212.00
+Technology & Digital,Computer Programmers,15-1251.00
+Technology & Digital,Software Developers,15-1256.00
+Technology & Digital,Web Developers,15-1257.00
+Technology & Digital,Database Administrators,15-1241.00
+Technology & Digital,Network and Computer Systems Administrators,15-1244.00
+Technology & Digital,Computer Network Architects,15-1245.00
+Technology & Digital,Computer Support Specialists,15-1232.00
+Technology & Digital,Computer Hardware Engineers,17-2061.00
+Technology & Digital,Data Scientists,15-2051.01
+Technology & Digital,Statisticians,15-2041.00
+Technology & Digital,Mathematicians,15-2021.00
+Technology & Digital,Operations Research Analysts,15-2031.00
+Technology & Digital,Actuaries,15-2011.00
+
+
+
+Healthcare & Wellness,Physicians,29-1069.00
+Healthcare & Wellness,Surgeons,29-1069.00
+Healthcare & Wellness,Registered Nurses,29-1141.00
+Healthcare & Wellness,Dentists,29-1021.00
+Healthcare & Wellness,Pharmacists,29-1051.00
+Healthcare & Wellness,Physical Therapists,29-1123.00
+Healthcare & Wellness,Occupational Therapists,29-1122.00
+Healthcare & Wellness,Speech-Language Pathologists,29-1127.00
+Healthcare & Wellness,Physician Assistants,29-1071.00
+Healthcare & Wellness,Medical and Clinical Laboratory Technologists,29-2011.00
+Healthcare & Wellness,Radiologic Technologists and Technicians,29-2034.00
+Healthcare & Wellness,Diagnostic Medical Sonographers,29-2032.00
+Healthcare & Wellness,Cardiovascular Technologists and Technicians,29-2031.00
+Healthcare & Wellness,Respiratory Therapists,29-1126.00
+Healthcare & Wellness,Dental Hygienists,29-2021.00
+Healthcare & Wellness,Dietitians and Nutritionists,29-1031.00
+Healthcare & Wellness,Chiropractors,29-1011.00
+Healthcare & Wellness,Optometrists,29-1041.00
+Healthcare & Wellness,Veterinarians,29-1131.00
+Healthcare & Wellness,Licensed Practical and Licensed Vocational Nurses,29-2061.00
+Healthcare & Wellness,Medical Assistants,31-9092.00
+Healthcare & Wellness,Nursing Assistants,31-1131.00
+Healthcare & Wellness,Home Health Aides,31-1121.00
+Healthcare & Wellness,Personal Care Aides,31-1122.00
+Healthcare & Wellness,Physical Therapist Assistants,31-2021.00
+Healthcare & Wellness,Occupational Therapy Assistants,31-2011.00
+Healthcare & Wellness,Massage Therapists,31-9011.00
+Healthcare & Wellness,Dental Assistants,31-9091.00
+Healthcare & Wellness,Pharmacy Technicians,29-2052.00
+Healthcare & Wellness,Surgical Technologists,29-2055.00
+
+
+
+Skilled Trades & Construction,First-Line Supervisors of Construction Trades and Extraction Workers,47-1011.00
+Skilled Trades & Construction,Carpenters,47-2031.00
+Skilled Trades & Construction,Electricians,47-2111.00
+Skilled Trades & Construction,Plumbers, Pipefitters, and Steamfitters,47-2152.00
+Skilled Trades & Construction,HVAC and Refrigeration Mechanics and Installers,49-9021.00
+Skilled Trades & Construction,Welders, Cutters, Solderers, and Brazers,51-4121.00
+Skilled Trades & Construction,Construction Laborers,47-2061.00
+Skilled Trades & Construction,Operating Engineers and Other Construction Equipment Operators,47-2073.00
+Skilled Trades & Construction,Painters, Construction and Maintenance,47-2141.00
+Skilled Trades & Construction,Roofers,47-2181.00
+Skilled Trades & Construction,Brickmasons and Blockmasons,47-2021.00
+Skilled Trades & Construction,Stonemasons,47-2022.00
+Skilled Trades & Construction,Cement Masons and Concrete Finishers,47-2051.00
+Skilled Trades & Construction,Glaziers,47-2121.00
+Skilled Trades & Construction,Pipelayers,47-2151.00
+Skilled Trades & Construction,Drywall and Ceiling Tile Installers,47-2081.00
+Skilled Trades & Construction,Flooring Installers, Except Carpet, Wood, and Resilient Tile,47-2042.00
+Skilled Trades & Construction,Tile and Marble Setters,47-2044.00
+Skilled Trades & Construction,Ironworkers,47-2171.00
+Skilled Trades & Construction,Sheet Metal Workers,47-2211.00
+Skilled Trades & Construction,Solar Photovoltaic Installers,47-2231.00
+Skilled Trades & Construction,Wind Turbine Technicians,49-9081.00
+Skilled Trades & Construction,Automotive Service Technicians and Mechanics,49-3023.00
+Skilled Trades & Construction,Diesel Engine Specialists,49-3031.00
+Skilled Trades & Construction,Heavy Vehicle and Mobile Equipment Service Technicians and Mechanics,49-3042.00
+Skilled Trades & Construction,Industrial Machinery Mechanics,49-9041.00
+Skilled Trades & Construction,Maintenance Workers, General,49-9071.00
+Skilled Trades & Construction,Electric Motor, Power Tool, and Related Repairers,49-2092.00
+Skilled Trades & Construction,Electronic Equipment Installers and Repairers, Motor Vehicles,49-2096.00
+Skilled Trades & Construction,Telecommunications Equipment Installers and Repairers, Except Line Installers,49-2022.00
+Skilled Trades & Construction,Computer, Automated Teller, and Office Machine Repairers,49-2011.00
+Skilled Trades & Construction,Home Appliance Repairers,49-9031.00
+Skilled Trades & Construction,Security and Fire Alarm Systems Installers,49-2098.00
+Skilled Trades & Construction,Boilermakers,49-9012.00
+Skilled Trades & Construction,Millwrights,49-9044.00
+Skilled Trades & Construction,Tool and Die Makers,51-4111.00
+Skilled Trades & Construction,Machinists,51-4041.00
+Skilled Trades & Construction,Cabinetmakers and Bench Carpenters,51-7011.00
+Skilled Trades & Construction,Upholsterers,51-6093.00
+Skilled Trades & Construction,Bakers,51-3011.00
+Skilled Trades & Construction,Butchers and Meat Cutters,51-3021.00
+Skilled Trades & Construction,Chefs and Head Cooks,35-1011.00
+Skilled Trades & Construction,Cooks, Restaurant,35-2014.00
+Skilled Trades & Construction,Food Preparation Workers,35-2021.00
+Skilled Trades & Construction,Dental Laboratory Technicians,51-9081.00
+Skilled Trades & Construction,Ophthalmic Laboratory Technicians,51-9082.00
+Skilled Trades & Construction,Orthotists and Prosthetists,29-2091.00
+Skilled Trades & Construction,Jewelers and Precious Stone and Metal Workers,51-9071.00
+Skilled Trades & Construction,Patternmakers, Wood,51-7031.00
+Skilled Trades & Construction,Photographic Process Workers and Processing Machine Operators,51-9131.00
+Skilled Trades & Construction,Printing Press Operators,51-5112.00
+Skilled Trades & Construction,Sewers, Hand,51-6052.00
+Skilled Trades & Construction,Tailors, Dressmakers, and Custom Sewers,51-6051.00
+Skilled Trades & Construction,Shoe and Leather Workers and Repairers,51-6041.00
+Skilled Trades & Construction,Assemblers and Fabricators, All Other,51-2099.00
+Skilled Trades & Construction,Inspectors, Testers, Sorters, Samplers, and Weighers,51-9061.00
+Skilled Trades & Construction,Packaging and Filling Machine Operators and Tenders,51-9111.00
+Skilled Trades & Construction,Etchers and Engravers,51-9021.00
+Skilled Trades & Construction,Foundry Mold and Coremakers,51-4071.00
+Skilled Trades & Construction,Model Makers, Wood,51-7032.00
+Skilled Trades & Construction,Patternmakers, Metal and Plastic,51-4062.00
+Skilled Trades & Construction,Tool Grinders, Filers, and Sharpeners,51-4035.00
+Skilled Trades & Construction,Heat Treaters, Annealers, and Temperers of Metal,51-4072.00
+Skilled Trades & Construction,Lay-Out Workers, Metal and Plastic,51-4061.00
+Skilled Trades & Construction,Metal-Refining Furnace Operators and Tenders,51-4072.00
+Skilled Trades & Construction,Pourers and Casters, Metal,51-4072.00
+Skilled Trades & Construction,Rolling Machine Setters, Operators, and Tenders, Metal and Plastic,51-4081.00
+Skilled Trades & Construction,Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic,51-4031.00
+Skilled Trades & Construction,Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic,51-4032.00
+Skilled Trades & Construction,Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic,51-4033.00
+Skilled Trades & Construction,Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic,51-4034.00
+Skilled Trades & Construction,Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic,51-4035.00
+Skilled Trades & Construction,Numerical Tool and Process Control Programmers,51-4012.00
+Skilled Trades & Construction,Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders,51-9022.00
+Skilled Trades & Construction,Forging Machine Setters, Operators, and Tenders, Metal and Plastic,51-4071.00
+Skilled Trades & Construction,Foundry Mold and Coremakers,51-4071.00
+Skilled Trades & Construction,Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic,51-4072.00
+Skilled Trades & Construction,Layout Workers, Metal and Plastic,51-4061.00
+Skilled Trades & Construction,Metal-Refining Furnace Operators and Tenders,51-4072.00
+Skilled Trades & Construction,Pourers and Casters, Metal,51-4072.00
+Skilled Trades & Construction,Rolling Machine Setters, Operators, and Tenders, Metal and Plastic,51-4081.00
+Skilled Trades & Construction,Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders,51-4122.00
+Skilled Trades & Construction,Cutting and Slicing Machine Setters, Operators, and Tenders,51-9032.00
+Skilled Trades & Construction,Extruding and Drawing Machine Setters, Operators, and Tenders, Fiber, Yarn, and Thread,51-6091.00
+Skilled Trades & Construction,Textile Bleaching and Dyeing Machine Operators and Tenders,51-6092.00
+Skilled Trades & Construction,Textile Knitting and Weaving Machine Setters, Operators, and Tenders,51-6062.00
+Skilled Trades & Construction,Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders,51-6063.00
+Skilled Trades & Construction,Woodworking Machine Setters, Operators, and Tenders, Except Sawing,51-7042.00
+Skilled Trades & Construction,Sawing Machine Setters, Operators, and Tenders, Wood,51-7041.00
+Skilled Trades & Construction,Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders,51-9021.00
+Skilled Trades & Construction,Mixing and Blending Machine Setters, Operators, and Tenders,51-9023.00
+Skilled Trades & Construction,Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders,51-9023.00
+Skilled Trades & Construction,Chemical Plant and System Operators,51-8091.00
+Skilled Trades & Construction,Gas Plant Operators,51-8092.00
+Skilled Trades & Construction,Petroleum Pump System Operators, Refinery Operators, and Gaugers,51-8093.00
+Skilled Trades & Construction,Power Plant Operators,51-8094.00
+Skilled Trades & Construction,Water and Wastewater Treatment Plant Operators,51-8093.00
+Skilled Trades & Construction,Auxiliary Equipment Operators, Power,51-8011.00
+Skilled Trades & Construction,Cooling and Freezing Equipment Operators and Tenders,51-9011.00
+Skilled Trades & Construction,Heating Equipment Setters, Operators, and Tenders,51-9011.00
+Skilled Trades & Construction,Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders,51-9011.00
+Skilled Trades & Construction,Inspectors, Testers, Sorters, Samplers, and Weighers,51-9061.00
+Skilled Trades & Construction,Jewelers and Precious Stone and Metal Workers,51-9071.00
+Skilled Trades & Construction,Medical Appliance Technicians,51-9082.00
+Skilled Trades & Construction,Ophthalmic Laboratory Technicians,51-9082.00
+Skilled Trades & Construction,Packaging and Filling Machine Operators and Tenders,51-9111.00
+Skilled Trades & Construction,Photographic Process Workers and Processing Machine Operators,51-9131.00
+Skilled Trades & Construction,Semiconductor Processors,51-9141.00
+Skilled Trades & Construction,Tire Builders,51-9191.00
+Skilled Trades & Construction,Cleaners of Vehicles and Equipment,53-7061.00
+Skilled Trades & Construction,Helpers--Production Workers,51-9198.00
+Skilled Trades & Construction,Coating, Painting, and Spraying Machine Setters, Operators, and Tenders,51-9061.00
+Skilled Trades & Construction,Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders, Metal and Plastic,51-4071.00
+Skilled Trades & Construction,Foundry Mold and Coremakers,51-4071.00
+Skilled Trades & Construction,Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic,51-4072.00
+Skilled Trades & Construction,Layout Workers, Metal and Plastic,51-4061.00
+Skilled Trades & Construction,Metal-Refining Furnace Operators and Tenders,51-4072.00
+Skilled Trades & Construction,Pourers and Casters, Metal,51-4072.00
+Skilled Trades & Construction,Rolling Machine Setters, Operators, and Tenders, Metal and Plastic,51-4081.00
+Skilled Trades & Construction,Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders,51-4122.00
+Skilled Trades & Construction,Cutting and Slicing Machine Setters, Operators, and Tenders,51-9032.00
+Skilled Trades & Construction,Extruding and Drawing Machine Setters, Operators, and Tenders, Fiber, Yarn, and Thread,51-6091.00
+Skilled Trades & Construction,Textile Bleaching and Dyeing Machine Operators and Tenders,51-6092.00
+Skilled Trades & Construction,Textile Knitting and Weaving Machine Setters, Operators, and Tenders,51-6062.00
+Skilled Trades & Construction,Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders,51-6063.00
+Skilled Trades & Construction,Woodworking Machine Setters, Operators, and Tenders, Except Sawing,51-7042.00
+Skilled Trades & Construction,Sawing Machine Setters, Operators, and Tenders, Wood,51-7041.00
+Skilled Trades & Construction,Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders,51-9021.00
+Skilled Trades & Construction,Mixing and Blending Machine Setters, Operators, and Tenders,51-9023.00
+Skilled Trades & Construction,Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders,51-9023.00
+Skilled Trades & Construction,Chemical Plant and System Operators,51-8091.00
+Skilled Trades & Construction,Gas Plant Operators,51-8092.00
+Skilled Trades & Construction,Petroleum Pump System Operators, Refinery Operators, and Gaugers,51-8093.00
+Skilled Trades & Construction,Power Plant Operators,51-8094.00
+Skilled Trades & Construction,Water and Wastewater Treatment Plant Operators,51-8093.00
+Skilled Trades & Construction,Auxiliary Equipment Operators, Power,51-8011.00
+Skilled Trades & Construction,Cooling and Freezing Equipment Operators and Tenders,51-9011.00
+Skilled Trades & Construction,Heating Equipment Setters, Operators, and Tenders,51-9011.00
+Skilled Trades & Construction,Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders,51-9011.00
+Skilled Trades & Construction,Inspectors, Testers, Sorters, Samplers, and Weighers,51-9061.00
+Skilled Trades & Construction,Jewelers and Precious Stone and Metal Workers,51-9071.00
+Skilled Trades & Construction,Medical Appliance Technicians,51-9082.00
+Skilled Trades & Construction,Ophthalmic Laboratory Technicians,51-9082.00
+Skilled Trades & Construction,Packaging and Filling Machine Operators and Tenders,51-9111.00
+Skilled Trades & Construction,Photographic Process Workers and Processing Machine Operators,51-9131.00
+Skilled Trades & Construction,Semiconductor Processors,51-9141.00
+Skilled Trades & Construction,Tire Builders,51-9191.00
+Skilled Trades & Construction,Cleaners of Vehicles and Equipment,53-7061.00
+Skilled Trades & Construction,Helpers--Production Workers,51-9198.00
+Skilled Trades & Construction,Coating, Painting, and Spraying Machine Setters, Operators, and Tenders,51-9061.00
+
+
+
+Creative Arts & Design,Art Directors,27-1011.00
+Creative Arts & Design,Craft Artists,27-1012.00
+Creative Arts & Design,Fine Artists, Including Painters, Sculptors, and Illustrators,27-1013.00
+Creative Arts & Design,Graphic Designers,27-1024.00
+Creative Arts & Design,Fashion Designers,27-1022.00
+Creative Arts & Design,Floral Designers,27-1023.00
+Creative Arts & Design,Industrial Designers,27-1021.00
+Creative Arts & Design,Interior Designers,27-1025.00
+Creative Arts & Design,Set and Exhibit Designers,27-1027.00
+Creative Arts & Design,Actors,27-2011.00
+Creative Arts & Design,Producers and Directors,27-2012.00
+Creative Arts & Design,Athletes and Sports Competitors,27-2021.00
+Creative Arts & Design,Coaches and Scouts,27-2022.00
+Creative Arts & Design,Dancers,27-2031.00
+Creative Arts & Design,Choreographers,27-2032.00
+Creative Arts & Design,Musicians and Singers,27-2042.00
+Creative Arts & Design,Music Directors and Composers,27-2041.00
+Creative Arts & Design,Announcers,27-3011.00
+Creative Arts & Design,Broadcast Announcers and Radio Disc Jockeys,27-3011.00
+Creative Arts & Design,News Analysts, Reporters, and Journalists,27-3022.00
+Creative Arts & Design,Public Relations Specialists,27-3031.00
+Creative Arts & Design,Editors,27-3041.00
+Creative Arts & Design,Technical Writers,27-3042.00
+Creative Arts & Design,Writers and Authors,27-3043.00
+Creative Arts & Design,Photographers,27-4021.00
+Creative Arts & Design,Camera Operators, Television, Video, and Film,27-4031.00
+Creative Arts & Design,Film and Video Editors,27-4032.00
+Creative Arts & Design,Sound Engineering Technicians,27-4014.00
+Creative Arts & Design,Lighting Technicians,27-4011.00
+Creative Arts & Design,Audio and Video Equipment Technicians,27-4011.00
+Creative Arts & Design,Multi-Media Artists and Animators,27-1014.00
+Creative Arts & Design,Fashion Designers,27-1022.00
+Creative Arts & Design,Jewelers and Precious Stone and Metal Workers,51-9071.00
+Creative Arts & Design,Upholsterers,51-6093.00
+Creative Arts & Design,Patternmakers, Wood,51-7031.00
+Creative Arts & Design,Model Makers, Wood,51-7032.00
+Creative Arts & Design,Printing Press Operators,51-5112.00
+Creative Arts & Design,Sewers, Hand,51-6052.00
+Creative Arts & Design,Tailors, Dressmakers, and Custom Sewers,51-6051.00
+Creative Arts & Design,Shoe and Leather Workers and Repairers,51-6041.00
+Creative Arts & Design,Etchers and Engravers,51-9021.00
+Creative Arts & Design,Photographic Process Workers and Processing Machine Operators,51-9131.00
+
+
+
+Agriculture & Natural Resources,First-Line Supervisors of Farming, Fishing, and Forestry Workers,45-1011.00
+Agriculture & Natural Resources,Agricultural Engineers,17-2021.00
+Agriculture & Natural Resources,Farmworkers and Laborers, Crop, Nursery, and Greenhouse,45-2092.00
+Agriculture & Natural Resources,Farmworkers, Farm, Ranch, and Aquacultural Animals,45-2093.00
+Agriculture & Natural Resources,Fishers and Related Fishing Workers,45-3011.00
+Agriculture & Natural Resources,Forest and Conservation Technicians,19-4093.00
+Agriculture & Natural Resources,Forest and Conservation Workers,45-4011.00
+Agriculture & Natural Resources,Logging Equipment Operators,45-4022.00
+Agriculture & Natural Resources,Loggers,45-4023.00
+Agriculture & Natural Resources,Animal Scientists,19-1011.00
+Agriculture & Natural Resources,Food Scientists and Technologists,19-4011.00
+Agriculture & Natural Resources,Soil and Plant Scientists,19-1013.00
+Agriculture & Natural Resources,Conservation Scientists,19-2041.00
+Agriculture & Natural Resources,Environmental Scientists and Specialists, Including Health,19-2041.00
+Agriculture & Natural Resources,Veterinary Technologists and Technicians,29-2056.00
+Agriculture & Natural Resources,Pesticide Handlers, Sprayers, and Applicators, Vegetation,45-2021.00
+Agriculture & Natural Resources,Agricultural Equipment Operators,45-2091.00
+Agriculture & Natural Resources,Graders and Sorters, Agricultural Products,45-2041.00
+Agriculture & Natural Resources,Hunters and Trappers,45-3021.00
+Agriculture & Natural Resources,Fallers,45-4021.00
+Agriculture & Natural Resources,Forest Firefighters,33-2011.00
+Agriculture & Natural Resources,Tree Trimmers and Pruners,45-4021.00
+Agriculture & Natural Resources,Landscaping and Groundskeeping Workers,37-3011.00
+Agriculture & Natural Resources,Pest Control Workers,37-2021.00
+
+
+
+Education & Social Services,Preschool Teachers, Except Special Education,25-2011.00
+Education & Social Services,Kindergarten Teachers, Except Special Education,25-2012.00
+Education & Social Services,Elementary School Teachers, Except Special Education,25-2021.00
+Education & Social Services,Middle School Teachers, Except Special and Career/Technical Education,25-2022.00
+Education & Social Services,Secondary School Teachers, Except Special and Career/Technical Education,25-2031.00
+Education & Social Services,Special Education Teachers,25-2050.00
+Education & Social Services,Career/Technical Education Teachers, Middle School,25-2023.00
+Education & Social Services,Career/Technical Education Teachers, Secondary School,25-2032.00
+Education & Social Services,Postsecondary Teachers,25-1000.00
+Education & Social Services,Librarians and Media Collections Specialists,25-4022.00
+Education & Social Services,Library Technicians,25-4031.00
+Education & Social Services,Archivists,25-4011.00
+Education & Social Services,Curators,25-4012.00
+Education & Social Services,Museum Technicians and Conservators,25-4013.00
+Education & Social Services,Instructional Coordinators,25-9031.00
+Education & Social Services,Teacher Assistants,25-9045.00
+Education & Social Services,Educational, Guidance, and Career Counselors and Advisors,21-1012.00
+Education & Social Services,Marriage and Family Therapists,21-1013.00
+Education & Social Services,Mental Health Counselors,21-1014.00
+Education & Social Services,Rehabilitation Counselors,21-1015.00
+Education & Social Services,Substance Abuse and Behavioral Disorder Counselors,21-1011.00
+Education & Social Services,Health Education Specialists,21-1091.00
+Education & Social Services,Social and Human Service Assistants,21-1093.00
+Education & Social Services,Community Health Workers,21-1094.00
+Education & Social Services,Social Workers, All Other,21-1029.00
+Education & Social Services,Child, Family, and School Social Workers,21-1021.00
+Education & Social Services,Healthcare Social Workers,21-1022.00
+Education & Social Services,Mental Health and Substance Abuse Social Workers,21-1023.00
+Education & Social Services,Probation Officers and Correctional Treatment Specialists,21-1092.00
+Education & Social Services,Religious Workers,21-2011.00
+Education & Social Services,Directors, Religious Activities and Education,21-2021.00
+Education & Social Services,Clergy,21-2011.00
+
+
+
+Legal & Protective Services,Lawyers,23-1011.00
+Legal & Protective Services,Judges, Magistrate Judges, and Magistrates,23-1023.00
+Legal & Protective Services,Paralegals and Legal Assistants,23-2011.00
+Legal & Protective Services,Legal Support Workers, All Other,23-2099.00
+Legal & Protective Services,Police and Sheriff's Patrol Officers,33-3051.00
+Legal & Protective Services,Detectives and Criminal Investigators,33-3021.00
+Legal & Protective Services,Correctional Officers and Jailers,33-3012.00
+Legal & Protective Services,Firefighters,33-2011.00
+Legal & Protective Services,First-Line Supervisors of Police and Detectives,33-1012.00
+Legal & Protective Services,First-Line Supervisors of Firefighting and Prevention Workers,33-1021.00
+Legal & Protective Services,Security Guards,33-9032.00
+Legal & Protective Services,Private Detectives and Investigators,33-9021.00
+Legal & Protective Services,Animal Control Workers,33-9011.00
+Legal & Protective Services,Bailiffs,33-3011.00
+Legal & Protective Services,Fish and Game Wardens,33-3031.00
+Legal & Protective Services,Forest Fire Inspectors and Prevention Specialists,33-2022.00
+Legal & Protective Services,Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers,33-9092.00
+Legal & Protective Services,Transit and Railroad Police,33-3052.00
+Legal & Protective Services,Court Reporters and Simultaneous Captioners,23-2091.00
+Legal & Protective Services,Arbitrators, Mediators, and Conciliators,23-1022.00
+Legal & Protective Services,Administrative Law Judges, Adjudicators, and Hearing Officers,23-1021.00
+
+
+
+Transportation & Logistics,Aircraft Cargo Handling Supervisors,53-1041.00
+Transportation & Logistics,First-Line Supervisors of Transportation and Material Moving Workers,53-1041.00
+Transportation & Logistics,Airline Pilots, Copilots, and Flight Engineers,53-2011.00
+Transportation & Logistics,Commercial Pilots,53-2012.00
+Transportation & Logistics,Air Traffic Controllers,53-2021.00
+Transportation & Logistics,Flight Attendants,53-2031.00
+Transportation & Logistics,Ambulance Drivers and Attendants, Except Emergency Medical Technicians,53-3011.00
+Transportation & Logistics,Bus Drivers, Transit and Intercity,53-3021.00
+Transportation & Logistics,Bus Drivers, School,53-3022.00
+Transportation & Logistics,Heavy and Tractor-Trailer Truck Drivers,53-3032.00
+Transportation & Logistics,Light Truck Drivers,53-3033.00
+Transportation & Logistics,Taxi Drivers and Chauffeurs,53-3041.00
+Transportation & Logistics,Motorcoach Drivers,53-3021.00
+Transportation & Logistics,Delivery Drivers,53-3031.00
+Transportation & Logistics,Locomotive Engineers,53-4011.00
+Transportation & Logistics,Railroad Conductors and Yardmasters,53-4021.00
+Transportation & Logistics,Subway and Streetcar Operators,53-4031.00
+Transportation & Logistics,Captains, Mates, and Pilots of Water Vessels,53-5021.00
+Transportation & Logistics,Sailors and Marine Oilers,53-5011.00
+Transportation & Logistics,Ship Engineers,53-5031.00
+Transportation & Logistics,Bridge and Lock Tenders,53-6011.00
+Transportation & Logistics,Parking Lot Attendants,53-6021.00
+Transportation & Logistics,Traffic Technicians,53-6041.00
+Transportation & Logistics,Transportation Inspectors,53-6051.00
+Transportation & Logistics,Transportation Planners,17-3099.00
+Transportation & Logistics,Logisticians,13-1081.00
+Transportation & Logistics,Freight Forwarders,53-7021.00
+Transportation & Logistics,Cargo and Freight Agents,53-7021.00
+Transportation & Logistics,Couriers and Messengers,53-3051.00
+Transportation & Logistics,Cleaners of Vehicles and Equipment,53-7061.00
+Transportation & Logistics,Conveyor Operators and Tenders,53-7011.00
+Transportation & Logistics,Crane and Tower Operators,53-7021.00
+Transportation & Logistics,Dredge Operators,53-7031.00
+Transportation & Logistics,Excavating and Loading Machine and Dragline Operators,53-7032.00
+Transportation & Logistics,Hoist and Winch Operators,53-7041.00
+Transportation & Logistics,Industrial Truck and Tractor Operators,53-7051.00
+Transportation & Logistics,Laborers and Freight, Stock, and Material Movers, Hand,53-7062.00
+Transportation & Logistics,Machine Feeders and Offbearers,53-7063.00
+Transportation & Logistics,Packers and Packagers, Hand,53-7064.00
+Transportation & Logistics,Pumping Station Operators,53-7071.00
+Transportation & Logistics,Refuse and Recyclable Material Collectors,53-7081.00
+Transportation & Logistics,Tank Car, Truck, and Ship Loaders,53-7121.00
+Transportation & Logistics,Stevedores,53-7199.00
+Transportation & Logistics,Storage and Distribution Managers,11-3071.00
+
+
+
+Hospitality & Food Services,Chefs and Head Cooks,35-1011.00
+Hospitality & Food Services,First-Line Supervisors of Food Preparation and Serving Workers,35-1012.00
+Hospitality & Food Services,Cooks, Restaurant,35-2014.00
+Hospitality & Food Services,Food Preparation Workers,35-2021.00
+Hospitality & Food Services,Bartenders,35-3011.00
+Hospitality & Food Services,Waiters and Waitresses,35-3031.00
+Hospitality & Food Services,Dining Room and Cafeteria Attendants and Bartender Helpers,35-9011.00
+Hospitality & Food Services,Dishwashers,35-9021.00
+Hospitality & Food Services,Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop,35-9031.00
+Hospitality & Food Services,Food Servers, Nonrestaurant,35-3041.00
+Hospitality & Food Services,Bakers,51-3011.00
+Hospitality & Food Services,Butchers and Meat Cutters,51-3021.00
+Hospitality & Food Services,Hotel, Motel, and Resort Desk Clerks,43-4081.00
+Hospitality & Food Services,Concierges,39-6012.00
+Hospitality & Food Services,Lodging Managers,11-9071.00
+Hospitality & Food Services,Tour Guides and Escorts,39-7011.00
+Hospitality & Food Services,Travel Agents,41-3041.00
+Hospitality & Food Services,Flight Attendants,53-2031.00
+Hospitality & Food Services,Gaming Dealers,39-3011.00
+Hospitality & Food Services,Gaming Supervisors,39-1011.00
+Hospitality & Food Services,Recreational Protective Service Workers,33-9092.00
+Hospitality & Food Services,Amusement and Recreation Attendants,39-3091.00
+Hospitality & Food Services,Ushers, Lobby Attendants, and Ticket Takers,39-3031.00
+Hospitality & Food Services,Fitness and Wellness Coordinators,39-9031.00
+Hospitality & Food Services,Hairdressers, Hairstylists, and Cosmetologists,39-5012.00
+Hospitality & Food Services,Manicurists and Pedicurists,39-5092.00
+Hospitality & Food Services,Skincare Specialists,39-5094.00
+Hospitality & Food Services,Barbers,39-5011.00
+Hospitality & Food Services,Funeral Service Managers,11-9061.00
+Hospitality & Food Services,Embalmers,39-4011.00
+Hospitality & Food Services,Morticians, Undertakers, and Funeral Arrangers,39-4031.00
+Hospitality & Food Services,Childcare Workers,39-9011.00
+Hospitality & Food Services,Personal Care Aides,31-1122.00
+Hospitality & Food Services,Animal Caretakers,39-2021.00
+Hospitality & Food Services,Pet Groomers,39-2021.00
+Hospitality & Food Services,Veterinary Assistants and Laboratory Animal Caretakers,31-9096.00
+
+
+
+Building & Grounds Cleaning & Maintenance,First-Line Supervisors of Housekeeping and Janitorial Workers,37-1011.00
+Building & Grounds Cleaning & Maintenance,First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers,37-1012.00
+Building & Grounds Cleaning & Maintenance,Janitors and Cleaners, Except Maids and Housekeeping Cleaners,37-2011.00
+Building & Grounds Cleaning & Maintenance,Maids and Housekeeping Cleaners,37-2012.00
+Building & Grounds Cleaning & Maintenance,Pest Control Workers,37-2021.00
+Building & Grounds Cleaning & Maintenance,Landscaping and Groundskeeping Workers,37-3011.00
+Building & Grounds Cleaning & Maintenance,Tree Trimmers and Pruners,37-3013.00
+Building & Grounds Cleaning & Maintenance,Building Cleaning Workers, All Other,37-2019.00
+Building & Grounds Cleaning & Maintenance,Pesticide Handlers, Sprayers, and Applicators, Vegetation,37-3012.00
+
+
+
+Sales & Administrative,First-Line Supervisors of Sales Workers,41-1011.00
+Sales & Administrative,Advertising Sales Agents,41-3011.00
+Sales & Administrative,Insurance Sales Agents,41-3021.00
+Sales & Administrative,Securities, Commodities, and Financial Services Sales Agents,41-3031.00
+Sales & Administrative,Travel Agents,41-3041.00
+Sales & Administrative,Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products,41-4011.00
+Sales & Administrative,Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products,41-4012.00
+Sales & Administrative,Retail Salespersons,41-2031.00
+Sales & Administrative,Cashiers,41-2011.00
+Sales & Administrative,Demonstrators and Product Promoters,41-9011.00
+Sales & Administrative,Models,41-9012.00
+Sales & Administrative,Real Estate Brokers and Sales Agents,41-9021.00
+Sales & Administrative,Telemarketers,41-9041.00
+Sales & Administrative,First-Line Supervisors of Office and Administrative Support Workers,43-1011.00
+Sales & Administrative,Secretaries and Administrative Assistants,43-6010.00
+Sales & Administrative,General Office Clerks,43-9061.00
+Sales & Administrative,Bookkeeping, Accounting, and Auditing Clerks,43-3031.00
+Sales & Administrative,Customer Service Representatives,43-4051.00
+Sales & Administrative,Receptionists and Information Clerks,43-4171.00
+Sales & Administrative,Stock Clerks and Order Fillers,43-5081.00
+Sales & Administrative,Shipping, Receiving, and Traffic Clerks,43-5071.00
+Sales & Administrative,Mail Clerks and Mail Machine Operators, Except Postal Service,43-9051.00
+Sales & Administrative,Office Machine Operators, Except Computer,43-9071.00
+Sales & Administrative,Data Entry Keyers,43-9021.00
+Sales & Administrative,Word Processors and Typists,43-9022.00
+Sales & Administrative,Couriers and Messengers,43-5021.00
+Sales & Administrative,Dispatchers, Except Police, Fire, and Ambulance,43-5032.00
+Sales & Administrative,Interviewers, Except Eligibility and Loan,43-4111.00
+Sales & Administrative,Human Resources Assistants, Except Payroll and Timekeeping,43-4161.00
+Sales & Administrative,Executive Secretaries and Executive Administrative Assistants,43-6011.00
+Sales & Administrative,Legal Secretaries and Administrative Assistants,43-6012.00
+Sales & Administrative,Medical Secretaries and Administrative Assistants,43-6013.00
+Sales & Administrative,Computer Operators,43-9011.00
+Sales & Administrative,Proofreaders and Copy Markers,43-9081.00
+Sales & Administrative,Desktop Publishers,43-9031.00
+Sales & Administrative,Switchboard Operators, Including Answering Service,43-2011.00
+Sales & Administrative,Communications Equipment Operators, All Other,43-2099.00
+Sales & Administrative,Postal Service Mail Carriers,43-5052.00
+Sales & Administrative,Postal Service Clerks,43-5051.00
+Sales & Administrative,Tellers,43-3071.00
+Sales & Administrative,New Accounts Clerks,43-4131.00
+Sales & Administrative,Loan Interviewers and Clerks,43-4131.00
+Sales & Administrative,Credit Authorizers, Checkers, and Clerks,43-4041.00
+Sales & Administrative,Bill and Account Collectors,43-3011.00
+Sales & Administrative,Billing and Posting Clerks,43-3021.00
+Sales & Administrative,Payroll and Timekeeping Clerks,43-3051.00
+Sales & Administrative,Procurement Clerks,43-3061.00
+Sales & Administrative,Brokerage Clerks,43-4011.00
+Sales & Administrative,Court, Municipal, and License Clerks,43-4031.00
+Sales & Administrative,Eligibility Interviewers, Government Programs,43-4061.00
+Sales & Administrative,File Clerks,43-4071.00
+Sales & Administrative,Hotel, Motel, and Resort Desk Clerks,43-4081.00
+Sales & Administrative,Library Assistants, Clerical,43-4121.00
+Sales & Administrative,Order Clerks,43-4151.00
+Sales & Administrative,Correspondence Clerks,43-9021.00
+Sales & Administrative,Travel Clerks,43-4181.00
+Sales & Administrative,Reservation and Transportation Ticket Agents and Travel Clerks,43-4181.00
+Sales & Administrative,Information and Record Clerks, All Other,43-4199.00
+Sales & Administrative,Office and Administrative Support Workers, All Other,43-9199.00
+
+

@@ -1,0 +1,17 @@
+Existing Platform Categories:
+- Technology
+- Business
+- Creative Arts
+- Agriculture
+- Healthcare
+- Skilled Trades
+
+
+
+
+Industry Classification Systems:
+- NAICS (North American Industry Classification System): Classifies industries by a hierarchical coding system.
+- SOC (Standard Occupational Classification): Classifies workers into job-related categories.
+- GICS (Global Industry Classification Standard): Classifies companies into sectors, industry groups, industries, and sub-industries.
+- SIC (Standard Industrial Classification): Older system for classifying industries by a four-digit code.
+
